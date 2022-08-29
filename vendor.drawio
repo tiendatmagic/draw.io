@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T16:11:59.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ck37jJmAUBDXbE8H9DAd" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T16:12:06.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="L6tfYcq5c9yg36FVMcub" version="20.2.7" type="github">
   <diagram id="7WxGNDYHlxl3xqgLbLH1" name="Trang-1">
     <mxGraphModel dx="2477" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -314,10 +314,10 @@
           <mxGeometry x="3350" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AiGadOs3AcA_uCg4_aN-23" value="Order_line" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3580" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="3560" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AiGadOs3AcA_uCg4_aN-24" value="Product_tag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3730" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="3720" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AiGadOs3AcA_uCg4_aN-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mr8vC4rlbGJI1XictfMb-48" target="5AiGadOs3AcA_uCg4_aN-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
