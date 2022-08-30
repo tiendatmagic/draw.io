@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T07:39:46.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AflS1rVbHG6iOLHKDCWW" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T07:56:57.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CfJDoAbVImgsUI8QvJb7" version="20.2.7" type="github">
   <diagram id="7WxGNDYHlxl3xqgLbLH1" name="Trang-1">
     <mxGraphModel dx="2102" dy="2769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -89,16 +89,16 @@
           <mxGeometry x="2190" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-39" value="User_notification" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="6400" y="20" width="130" height="60" as="geometry" />
+          <mxGeometry x="6350" y="20" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-40" value="User_setting" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="6620" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="6570" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-41" value="Vendor_settings" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="6840" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="6790" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-42" value="Wallet_transactions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="7040" y="20" width="150" height="60" as="geometry" />
+          <mxGeometry x="6990" y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-44" value="Customers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1760" y="20" width="120" height="60" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="5710" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mr8vC4rlbGJI1XictfMb-50" value="Templates" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="6210" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="6160" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b2dw8SB2TFFhHNfd8kBS-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Mr8vC4rlbGJI1XictfMb-10" target="Mr8vC4rlbGJI1XictfMb-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
