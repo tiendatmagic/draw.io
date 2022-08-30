@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T01:40:19.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bM3gsthxvIwpWbqgflcG" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T01:50:47.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="X8ipKRWr-uPI4hULhqP9" version="20.2.7" type="github">
   <diagram id="7WxGNDYHlxl3xqgLbLH1" name="Trang-1">
     <mxGraphModel dx="1577" dy="2477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -279,12 +279,6 @@
             <mxPoint x="2740" y="110" as="sourcePoint" />
             <mxPoint x="3100" y="-20" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5AiGadOs3AcA_uCg4_aN-19" value="campaign_tag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3230" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5AiGadOs3AcA_uCg4_aN-20" value="customer_tag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3370" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AiGadOs3AcA_uCg4_aN-21" value="order_tag" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="3220" y="340" width="120" height="60" as="geometry" />
