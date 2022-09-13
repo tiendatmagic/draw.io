@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T09:48:39.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wveO9Pv-k_a_dRYRUMI_" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T10:04:09.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-JHU0rOM5_okNGrx62u2" version="20.2.8" type="github">
   <diagram id="k0SXwXFo8bgd_wO2-ZVI" name="Trang-1">
-    <mxGraphModel dx="769" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,51 @@
         </mxCell>
         <mxCell id="doCrK3vxCH-It1BhVyvd-8" value="API" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="170" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-9" value="UI Trang sản phẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-10" value="products.component.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-11" value="Nhận API từ phía backend và xử lý logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-13" value="products.service.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-14" value="Xử lý logic của trang web sau khi nhận API, như submit form..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-15" value="products.component.ts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-16" value="products.component.scss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="doCrK3vxCH-It1BhVyvd-10" target="doCrK3vxCH-It1BhVyvd-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="doCrK3vxCH-It1BhVyvd-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.587;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.57;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="doCrK3vxCH-It1BhVyvd-13" target="doCrK3vxCH-It1BhVyvd-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCrK3vxCH-It1BhVyvd-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.614;exitY=-0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="doCrK3vxCH-It1BhVyvd-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="590" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
